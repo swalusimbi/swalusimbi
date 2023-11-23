@@ -8,9 +8,6 @@
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
     </a>
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
-    </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
     </a>
