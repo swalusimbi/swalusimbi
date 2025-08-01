@@ -65,12 +65,23 @@ I'm a **Full-Stack Software Engineer** who believes code should solve real probl
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swalusimbi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swalusimbi&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/swalusimbi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=swalusimbi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swalusimbi&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swalusimbi&theme=dracula" alt="swalusimbi" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=swalusimbi&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  </a>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <a href="https://github.com/swalusimbi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=swalusimbi&theme=dracula&hide_border=false" alt="GitHub Activity Graph" />
+  </a>
 </div>
 
 ---
