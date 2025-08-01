@@ -67,7 +67,6 @@ I'm a **Full-Stack Software Engineer** who believes code should solve real probl
 <div align="center">
   <a href="https://github.com/swalusimbi">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=swalusimbi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swalusimbi&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </div>
 
